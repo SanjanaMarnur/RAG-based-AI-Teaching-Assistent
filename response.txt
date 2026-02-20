@@ -1,0 +1,3 @@
+Functions are concluded in JavaScript Functions (Video #58).
+
+The relevant content can be found from **0:41** minutes to **0:44** minutes where it is explained what a function is, then from **0:57** minutes to **1:00** minutes where it is explained functions in JavaScript and lastly from **0:46** minutes to **0:48** minutes where it is concluded about functions in JavaScript.

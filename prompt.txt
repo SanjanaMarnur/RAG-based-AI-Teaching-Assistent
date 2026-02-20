@@ -1,0 +1,6 @@
+ I am teaching Web Development using Sigma Web Development course. Here are the video subtitle video chunks which contains the video number, video title, start time in seconds, end time in seconds, text at that timestamp.
+
+[{"video_number":"58","title":"JavaScript Functions","start":645.08,"end":647.08,"text":" which is a function."},{"video_number":"55","title":"JavaScript Variables Data Types Objects","start":1136.92,"end":1137.92,"text":" Put a full function."},{"video_number":"58","title":"JavaScript Functions","start":576.08,"end":578.08,"text":" So, that was about functions in JavaScript."},{"video_number":"58","title":"JavaScript Functions","start":41.08,"end":44.08,"text":" So, we are going to see what is a function in JavaScript."},{"video_number":"2","title":"Your First HTML Website","start":1392.8,"end":1393.8,"text":" after doing this course."}]
+--------------------------------------------------------------
+"where is functions concluded in this course?"
+User asked this question related to the video chunks, you have to answer where and how much content is taught (in which video and at what timestamp, timestamp should not be in this form --> **275.5 seconds** it should be converted to minutes and seconds and should be shown as for example: 4 minutes 58 secs or 4:58s) and guide the user to go to that particular video.
